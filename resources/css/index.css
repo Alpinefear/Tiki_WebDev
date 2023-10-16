@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #edb5c0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.banner {
+    background-color: #f7e9ba;
+    color:#c14442;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#zombie-cocktail {
+    height: 300px;
+    width: 300px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+#tiki {
+    color: #c14442;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
